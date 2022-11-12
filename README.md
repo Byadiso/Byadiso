@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Byadiso
-- 👀 I’m interested in Javascript technologies and its world!
-- 🌱 I’m currently creating beautiful things with react and typescript!
+- 👋 Hi, I’m BYAMUNGU Desire.
+- 👀 I’m interested in Javascript technologies and its world.
+- 🌱 I’m currently creating beautiful things with react and typescript.
 - 💞️ I’m looking new opportunities with JS Frontend,or Full-stack.
 - 📫 How to reach me just drop an email to byadiso@gmail.com or write a text whatsApp on +48795342660 or check my portfolio at https://portfoliode.netlify.app/.
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools exploring nowadays :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -28,7 +28,7 @@
 
 ![Desire's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byadiso&show_icons=true&theme=radical)
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts, tried to craft them long time ago(wrote them during my first bootcamp with Andela(ALTP)):
 <!-- BLOG-POST-LIST:START -->
 - [https://medium.com/@byadiso/how-i-demonstrated-growth-mindset-recently-a6d1b250ba4b](https://medium.com/@byadiso/how-i-demonstrated-growth-mindset-recently-a6d1b250ba4b)
 - https://medium.com/@byadiso/how-can-african-youth-leverage-technology-compete-globally-on-job-markets-with-the-rest-of-the-2cab3045d184
