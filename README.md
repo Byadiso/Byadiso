@@ -1,8 +1,8 @@
 - 👋 Hi, I’m BYAMUNGU Desire.
 - 👀 I’m interested in Javascript technologies and its world.
-- 🌱 I’m currently creating beautiful things with react and typescript.
+- 🌱 I’m currently creating cool things with HTML, CSS, Javascript, Express,Node js and mongoDB.
 - 💞️ I’m looking new opportunities with JS Frontend,or Full-stack.
-- 📫 How to reach me just drop an email to byadiso@gmail.com or write a text whatsApp on +48795342660 or check my portfolio at https://portfoliode.netlify.app/.
+- 📫 Just drop an email to byadiso@gmail.com or check my portfolio at https://portfoliode.netlify.app/, I will be happy to get intouch with you.
 
 
 ### :hammer_and_wrench: Languages and Tools exploring nowadays :
