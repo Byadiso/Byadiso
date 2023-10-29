@@ -32,6 +32,8 @@
 
 ![Desire's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byadiso&show_icons=true&theme=radical)
 
+[![](https://visitcount.itsvg.in/api?id=byadiso&label=Profile%20Views&color=9&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
 ### :writing_hand: Blog Posts, tried to craft them long time ago(wrote them during my first bootcamp with Andela(ALTP)):
 <!-- BLOG-POST-LIST:START -->
 - [https://medium.com/@byadiso/how-i-demonstrated-growth-mindset-recently-a6d1b250ba4b](https://medium.com/@byadiso/how-i-demonstrated-growth-mindset-recently-a6d1b250ba4b)
