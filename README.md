@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript technologies.
 - 🌱 I’m creating cool things with HTML, CSS, Javascript, react, Express, Node.js, python, and MongoDB.
 - 💞️ I’m looking for new opportunities with JS Frontend, or Full-stack.
-- 📫 Drop an email to byadiso@gmail.com or check my portfolio at https://portfoliode.netlify.app/, I will be happy to get in touch with you.
+- 📫 Drop an email to byadiso@gmail.com, I will be happy to get in touch with you.
 
 
 ### :hammer_and_wrench: Languages and Tools exploring nowadays :
