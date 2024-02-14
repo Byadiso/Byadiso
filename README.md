@@ -20,10 +20,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php"  alt="php" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure"  alt="azure" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss"  alt="tailwindcss" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express"  alt="express" width="40" height="40"/>&nbsp;
-  
-   
+   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express"  alt="express" width="40" height="40"/>&nbsp;    
   
 </div>
 
