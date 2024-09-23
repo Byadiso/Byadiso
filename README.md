@@ -1,8 +1,5 @@
 - 👋 Hi, I’m BYAMUNGU Desire.
-- 👀 I’m interested in Javascript technologies.
-- 🌱 I’m creating cool things with React, Node.js, Python, and MongoDB.
-- 📫 Drop an email to byadiso@gmail.com, if you have something to create on the web or a project to develop.
-
+- *** Thank you for stopping by, I’m just exploring Javascript world and creating cool things with it.
 
 ### :hammer_and_wrench: Languages and Tools exploring nowadays :
 <div>
