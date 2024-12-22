@@ -1,5 +1,5 @@
 - 👋 Hi, I’m BYAMUNGU Desire.
-- Thank you for stopping by, I’m just exploring Javascript and Python world to see if I can make a living with it.
+- 🚀 I'm diving into the world of JavaScript and Python, exploring how I can turn my passion for coding into a career. Thanks for stopping by! 
 
 ### :hammer_and_wrench: Languages and Tools exploring nowadays :
 <div>
