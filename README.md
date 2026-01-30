@@ -29,14 +29,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=byadiso&label=Profile%20Views&color=9&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
-### :writing_hand: Blog Posts, tried to craft them long time ago(wrote them during my first bootcamp with Andela(ALTP)):
-<!-- BLOG-POST-LIST:START -->
-- [https://medium.com/@byadiso/how-i-demonstrated-growth-mindset-recently-a6d1b250ba4b](https://medium.com/@byadiso/how-i-demonstrated-growth-mindset-recently-a6d1b250ba4b)
-- https://medium.com/@byadiso/how-can-african-youth-leverage-technology-compete-globally-on-job-markets-with-the-rest-of-the-2cab3045d184
-- https://medium.com/@byadiso/my-reflections-on-andelas-epic-values-8522056db667
-<!-- BLOG-POST-LIST:END -->
-
-<!---
-Byadiso/Byadiso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
