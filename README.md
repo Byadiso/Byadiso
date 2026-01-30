@@ -1,5 +1,5 @@
 - 👋 Hi, I’m BYAMUNGU Desire.
-- 🚀 I'm diving into the world of Python and React.
+- 🚀 I'm diving into the world of Python, React, and sometimes PHP.
 
 ### :hammer_and_wrench: Languages and Tools exploring nowadays :
 <div>
